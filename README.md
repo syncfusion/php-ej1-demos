@@ -7,12 +7,12 @@ The following sections will guide you through using the Syncfusion Essential JS1
 * [Requirements to run the demos](#requirements-to-run-the-demos)
 * [Repository structure](#repository-structure)
 * [License](#license)
+* [Using the samples](#using-the-samples)
 * [How to run the samples](#how-to-run-the-samples)
 * [Controls catalog](#controls-catalog)
 * [Demos](#demos)
-* [Support](#support)
 * [Release Notes](#release-notes)
-* [License Information](#license-information)
+* [Support and Feedback](#support-and-feedback)
 
 ## Requirements to run the demos
 
@@ -30,17 +30,27 @@ The **syncfusion-ej1-php** directory contains samples for all the controls, such
 
 Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusion’s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusion’s samples.
 
+## Using the samples
+
+The easiest way to use these samples without using Git is to download the zip file containing the current version (using the following link or by clicking the "Download ZIP" button on the repo page). You can then unzip the entire archive and use the samples.
+
+   [Download the samples ZIP](../../archive/master.zip)
+
+   **Notes:** 
+   * Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
+   * Be sure to unzip the entire archive, and not just individual samples. The samples all depend on the SharedContent folder in the archive. 
+
+If you clone the application, run **git clone <repository-url>** to clone the repository.
+
+**To use the Syncfusion Essential PHP samples, Syncfusion license key should be registered in SyncfusionLicense.txt file. Refer [this](https://www.syncfusion.com/kb/9002?utm_source=github&utm_medium=listing) link for more information.**
+
+
+
+**Reminder:** If you unzip individual samples, they will not build due to references to other portions of the ZIP file that were not unzipped. You must unzip the entire archive if you intend to build the samples.
+
 ## How to run the samples
 
 ### Download the samples
-
-If you download the samples using the **Download ZIP** option.
-
-* Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
-* Be sure to unzip the entire archive.
-
-If you clone the application, run **git clone <repository-url>** to clone the repository.
-Run the samples
 
 * Open the extracted samples folder.
 * Run the **RunSample.bat** file from the samples folder.
@@ -95,14 +105,12 @@ Take a look at the Syncfusion Essential JS 1 for PHP live demos.
 
 Download our PHP Platform installer from [here](https://www.syncfusion.com/downloads/php/?utm_medium=listing).
 
-## Support
-
-In case of any questions regarding the use of Syncfusion Essential JS 1 for PHP, please [contact us](http://www.syncfusion.com/support/?utm_medium=listing) by creating a support ticket.
-
 ## Release Notes
 
 Refer the Syncfusion Essential JS 1 for PHP Product Release Notes in [online Release Notes at Syncfusion](http://help.syncfusion.com/php/release-notes/?utm_medium=listing).
 
-## License Information
+## Support and Feedback
 
-For licensing information about Syncfusion Essential JS 1 for PHP, Download the Syncfusion License Agreements from [here](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf).
+* For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing).
+
+* To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
