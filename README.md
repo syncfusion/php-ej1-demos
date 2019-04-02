@@ -8,7 +8,7 @@ The following sections will guide you through using the Syncfusion Essential JS1
 * [Repository structure](#repository-structure)
 * [License](#license)
 * [Using the examples](#using-the-examples)
-* [How to run the samples](#how-to-run-the-samples)
+* [How to run the samples](#how-to-run-the-samples) 
 * [Controls catalog](#controls-catalog)
 * [Demos](#demos)
 * [Release Notes](#release-notes)
