@@ -14,7 +14,7 @@ The following sections will guide you through using the Syncfusion Essential JS1
 * [Release Notes](#release-notes)
 * [Support and Feedback](#support-and-feedback)
 
-## Requirements to run the demos
+## Requirements to run the demos 
 
 Install the following items to run the demos.
 
