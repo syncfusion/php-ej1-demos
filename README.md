@@ -112,4 +112,4 @@ Refer the Syncfusion Essential JS 1 for PHP Product Release Notes in [online Rel
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-<p>Copyright © 2001-2019 Syncfusion, Inc. Updated on 2019-08-23 at precisely 12:50:57 EST.</p>
+<p>Copyright © 2001-2019 Syncfusion, Inc. Updated on 2019-08-23 at precisely 14:15:50 EST.</p>
